@@ -8,7 +8,7 @@ We are trying to determine if the temperature and weather are right for an ice c
 
 ![June Temps](Images/June_Temps.png) ![December Temps](Images/December_Temps.png)
 
-We can see the summary statistic of Oahu temperatures in both June and December above. Here are some of the major takeaways:
+We can see the summary statistics of Oahu temperatures in both June and December above. Here are some of the major takeaways:
   - The mean temperature for June is 74.9 degrees fahrenheit and December is 71.0 degrees. Therefore, Oahu seems to stay pleasantly warm year round. 
   - The standard deviation is only 3.2 for June and 3.7 for December. This means that the vast majority of days will be in the mid 60s to low 80s throughout these months. 
   - The high for June and December are 85 and 83 degrees respectively, which aren't too hot. The lows are 64 and 56 degrees respectively. While these temperatures may be getting a little too chilly for ice cream, they're the minimum and aren't too bad. 
